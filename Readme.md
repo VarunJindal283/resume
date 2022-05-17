@@ -10,3 +10,9 @@
 
 2021-till date Chitkara University, Punjab
 (<https://www.chitkara.edu.in/>)
+
+# Research Interest
+
+Machine Learning
+
+Data Analytics
